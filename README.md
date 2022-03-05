@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoralBlu
-- 👀 I’m interested in javascript 
+- 👀 I’m interested working in Data 
 - 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on ... life 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me on message 
 
 <!---
